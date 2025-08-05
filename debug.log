@@ -1,0 +1,199 @@
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035:000000&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035:0000&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035:826&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035:826&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0401035:1132&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=66:41:0306055&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:1
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+INFO:rosreestr2coord.logger:1
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+INFO:rosreestr2coord.logger:name 'self' is not defined
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=38:06:144003:4723&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: ('No cipher can be selected.',)
+INFO:rosreestr2coord.logger:('No cipher can be selected.',)
